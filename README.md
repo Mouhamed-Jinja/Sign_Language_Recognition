@@ -1,4 +1,4 @@
-#Sign Language Recognition using Convolutional Neural Networks (CNN)
+# Sign Language Recognition using Convolutional Neural Networks (CNN)
 
 Description:
 Developed a Sign Language Recognition system using Convolutional Neural Networks (CNN) to recognize hand gestures in sign language. The project involved the following key steps:
